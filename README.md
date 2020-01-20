@@ -1,2 +1,2 @@
 # VIP-Switch
-To online and offline VIP.
+To online and offline VIP on Enterprise Linux 6/7 and SLES12...
